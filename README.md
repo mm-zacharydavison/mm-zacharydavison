@@ -5,7 +5,7 @@ I use this section to cover anything I really want people to know about me, but 
 
 * The preferred shortening of my name is 'Zac', but 'Zach' is fine too.
 * My time is valuable to me, I have a lot of hobbies and spend a lot of time studying, so I keep strict working hours and disengage from work outside of those hours.
-* I worked in a highly regulated industry on safety critical products (medical devices), so I value rigor, testing, and accuracy.
+* I worked in a highly regulated industry on safety critical products (medical devices), so I value rigor, testing, and accuracy. I know a lot about Systems Engineering and process design.
 
 # Values
 I am highly driven by my personal values and find that sharing these can often avoid conflict with people who do not share them.
