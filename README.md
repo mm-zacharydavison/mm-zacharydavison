@@ -7,6 +7,10 @@ I use this section to cover anything I really want people to know about me, but 
 * My time is valuable to me, I have a lot of hobbies and spend a lot of time studying, so I keep strict working hours and disengage from work outside of those hours.
 * I worked in a highly regulated industry on safety critical products (medical devices), so I value rigor, testing, and accuracy. I know a lot about Systems Engineering and process design.
 
+# Working Hours
+* 9:30 -> 18:00 Berlin (CEST)
+* 16:30 -> 01:00 Tokyo (GMT+9)
+
 # Values
 I am highly driven by my personal values and find that sharing these can often avoid conflict with people who do not share them.
 
@@ -46,9 +50,5 @@ I am highly driven by my personal values and find that sharing these can often a
 * **Clean Code**: I'm motivated by writing clean, readable, testable code.
 * **Specification**: I like to plan and specify projects or tasks before executing them. I prefer not to 'hack'.
 * **Delivery**: I like to see progress and deliver projects.
-
-# Working Hours
-* 9:30 -> 18:00 Berlin (CEST)
-* 16:30 -> 01:00 Tokyo (GMT+9)
 
 I am flexible for meetings to accomodate people in Tokyo or other timezones, if you give me 24+ hours notice, I can be up early or available later to accomodate your timezone.
