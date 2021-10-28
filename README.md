@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Miscellaneous must-mentions
 I use this section to cover anything I really want people to know about me, but that would be strange to bring up out of the blue.
 
