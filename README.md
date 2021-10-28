@@ -49,6 +49,6 @@ I am highly driven by my personal values and find that sharing these can often a
 
 # Working Hours
 * 9:30 -> 18:00 Berlin (CEST)
-* 17:00 -> 01:00 Tokyo (GMT+9)
+* 16:30 -> 01:00 Tokyo (GMT+9)
 
 I am flexible for meetings to accomodate people in Tokyo or other timezones, if you give me 24+ hours notice, I can be up early or available later to accomodate your timezone.
