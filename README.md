@@ -6,8 +6,8 @@ I use this section to cover anything I really want people to know about me, but 
 * I worked in a highly regulated industry on safety critical products (medical devices), so I value rigor, testing, and accuracy. I know a lot about Systems Engineering and process design.
 
 # Working Hours
-* 9:30 -> 18:00 Berlin (CEST)
-* 16:30 -> 01:00 Tokyo (GMT+9)
+* 8:30 -> 17:00 Berlin (CEST)
+* 15:30 -> 01:00 Tokyo (GMT+9)
 
 # Values
 I am highly driven by my personal values and find that sharing these can often avoid conflict with people who do not share them.
