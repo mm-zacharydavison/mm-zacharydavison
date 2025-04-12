@@ -17,8 +17,7 @@ I am highly driven by my personal values and find that sharing these can often a
 * **Democracy**: I value a flat team structure and like everyone to be able to have their input heard and valued, I don't like rigid hierarchies.
 
 # Working with me
-* I can be short and sometimes snappy, but I very rarely have personal grievances with people I work with and always have my teams best interests at heart.
-* Commit to things and stick to them. It's fine to underpromise and overdeliver, but the inverse is frustrating.
+* Commit to things and stick to them.
 * Be concise and to the point. Try not to labor points or ramble too much.
 * Don't drag meetings on and keep the overall meeting length in mind.
 * Stay focused on the point at hand, and finish discussing one point before moving onto a tangent or other point.
